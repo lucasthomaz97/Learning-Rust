@@ -1,0 +1,15 @@
+[submodule "constants"]
+	path = constants
+	url = C:/Program Files/Git/constants
+[submodule "data_types"]
+	path = data_types
+	url = C:/Program Files/Git/data_types
+[submodule "helloworld"]
+	path = helloworld
+	url = C:/Program Files/Git/helloworld
+[submodule "user_input"]
+	path = user_input
+	url = C:/Program Files/Git/user_input
+[submodule "variables"]
+	path = variables
+	url = C:/Program Files/Git/variables
